@@ -1,0 +1,1 @@
+https://github.com/othyn/macos-auto-clicker - autoclicker for accepting message sending
